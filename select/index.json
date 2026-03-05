@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "金平糖レトロチカ (2024 Remastered)",
+  "base_artist": "中恵 光城",
+  "createdAt": "2026-03-05T06:37:02.756601Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "金平糖レトロチカ",
+      "artist": "Mitsuki Nakae",
+      "has_synced": true,
+      "path": "select/01_金平糖レトロチカ_Mitsuki_Nakae.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "金平糖レトロチカ-Acoustic ver.-",
+      "artist": "Mitsuki Nakae",
+      "has_synced": true,
+      "path": "select/02_金平糖レトロチカ-Acoustic_ver.-_Mitsuki_Nakae.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "金平糖レトロチカ (2024 Remastered)",
+      "artist": "中恵光城",
+      "has_synced": false,
+      "path": "select/pl_01_金平糖レトロチカ_(2024_Remastered)_中恵光城.txt"
+    }
+  ]
+}
